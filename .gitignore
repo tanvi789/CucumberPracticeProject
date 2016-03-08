@@ -1,1 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
+lib_managed
+project/project/*
+project/target/*
+target
+.DS_Store
+.idea
