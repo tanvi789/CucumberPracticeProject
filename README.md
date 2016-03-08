@@ -20,7 +20,7 @@ This project contains the acceptance tests for Fast Track. Built using:
 ###  Test Automation environment setup
 
     1. Ensure that you have installed InteliJ Idea
-    2. Once you have installed IDEA install Cucumber for Scala
+    2. Once you have installed IDEA install Cucumber for Java plugin
     3. Clone this repo.
     4. Import the project in InteliJ
         
