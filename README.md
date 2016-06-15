@@ -8,14 +8,14 @@ QA and BA have sat down together to write the tests in simple English so that an
 ### Advantage of BDD implementation
 * BDD describes best as automating tests based on the desired behavior of the service.
 * First Gherkin Scenarios are written as a feature file and then automated.
-* BDD provides capability to automate Specs/Acceptance Criteria.
+* BDD stands for Behavior Driven Development which provides capability to automate Specs/Acceptance Criteria.
 
 This project contains the acceptance tests for Fast Track. Built using:
 
     Cucumber
     Selenium-webDriver
     Junit
-    Maven
+    Maven	
     
 ###  Test Automation environment setup
 
